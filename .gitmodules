@@ -1,0 +1,3 @@
+[submodule "assets/front"]
+	path = assets/front
+	url = git@github.com:huxulm/react-auth-template.git
